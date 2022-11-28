@@ -1,6 +1,5 @@
 - 🙋‍♂️ Hi, I’m @AlexFofonov
 - ⚡ I'm a student at Mordovia State University
-- 🌱 I’m currently learning html, css and js
 - 🤔 I believe that IT are "new physics"
 - 📫 How to reach me:
 - email: fofonov.av@gmail.com 
