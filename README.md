@@ -1,6 +1,5 @@
 - 🙋‍♂️ Hi, I’m @AlexFofonov
 - ⚡ I'm a student at Mordovia State University
-- 🤔 I believe that IT are "new physics"
 - 📫 How to reach me:
 - email: fofonov.av@gmail.com 
 - telegram: @AlexFofonov
