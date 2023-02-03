@@ -1,5 +1,4 @@
-- 🙋‍♂️ Hi, I’m @AlexFofonov
-- ⚡ I'm a student at Mordovia State University
+- 👨‍💻 Hi, I’m @AlexFofonov
 - 📫 How to reach me:
 - email: fofonov.av@gmail.com 
 - telegram: @AlexFofonov
