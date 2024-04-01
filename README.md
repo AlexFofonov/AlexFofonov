@@ -1,5 +1,6 @@
-- email: fofonov.av@gmail.com 
+- iOS Dev
 - telegram: @AlexFofonov
+- email: fofonov.av@gmail.com 
 
 <!--
 **AlexFofonov/AlexFofonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
